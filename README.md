@@ -1,4 +1,5 @@
 ### Hi there 👋
+Sou Sergio Murillo Souza e estou estudando para me tornar um profissional em dados
 
 🧠 Algumas das minhas habilidades:
 Manipulação de Tabelas relacionais
