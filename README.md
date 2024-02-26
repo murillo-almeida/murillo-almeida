@@ -1,25 +1,25 @@
 ### Hi there 👋
 Sou Sergio Murillo Souza e estou estudando para me tornar um profissional em dados
 
-🧠 Algumas das minhas habilidades:
-Manipulação de Tabelas relacionais
-ETL
-Visualização de dados
-Métodos de matemática e estatística
-Soluções voltadas a dados
-Estruturação de dados e banco de dados
-Inglês Fluente
+🧠 Algumas das minhas habilidades:<br>
+Manipulação de Tabelas relacionais<br>
+ETL<br>
+Visualização de dados<br>
+Métodos de matemática e estatística<br>
+Soluções voltadas a dados<br>
+Estruturação de dados e banco de dados<br>
+Inglês Fluente<br>
 
-🛠️ Algumas de minhas ferramentas:
-Excel e Google Sheets
-Python para análise de dados (Numpy, Pandas e Seaborn) e Aprendizado de máquina (Scikit-Learn)
-SQL
-Google Looker (Google data studio)
+🛠️ Algumas de minhas ferramentas:<br>
+Excel e Google Sheets<br>
+Python para análise de dados (Numpy, Pandas e Seaborn) e Aprendizado de máquina (Scikit-Learn)<br>
+SQL<br>
+Google Looker (Google data studio)<br>
 
 📚 Me desenvolvendo em:
-Power Bi
-Spark
-PySpark
+Power Bi <br>
+Spark<br>
+PySpark<br>
 Git
 
 <!--
