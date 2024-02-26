@@ -16,7 +16,7 @@ Python para análise de dados (Numpy, Pandas e Seaborn) e Aprendizado de máquin
 SQL<br>
 Google Looker (Google data studio)<br>
 
-📚 Me desenvolvendo em:
+📚 Me desenvolvendo em:<br>
 Power Bi <br>
 Spark<br>
 PySpark<br>
