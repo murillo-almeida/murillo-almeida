@@ -1,5 +1,5 @@
 ### Hi there 👋
-Sou Sergio Murillo Souza e estou estudando para me tornar um profissional em dados
+Sou Sergio Murillo Souza xom 4 anos de experiência em analise de dados e me desenvolvendo com as ferramentas para se tornar um analytics engineer
 
 🧠 Algumas das minhas habilidades:<br>
 Manipulação de Tabelas relacionais<br>
@@ -12,12 +12,12 @@ Inglês Fluente<br>
 
 🛠️ Algumas de minhas ferramentas:<br>
 Excel e Google Sheets<br>
+Power Bi <br>
 Python para análise de dados (Numpy, Pandas e Seaborn) e Aprendizado de máquina (Scikit-Learn)<br>
 SQL<br>
 Google Looker (Google data studio)<br>
 
 📚 Me desenvolvendo em:<br>
-Power Bi <br>
 Spark<br>
 PySpark<br>
 Git
