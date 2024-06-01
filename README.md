@@ -16,11 +16,12 @@ Power Bi <br>
 Python para análise de dados (Numpy, Pandas e Seaborn) e Aprendizado de máquina (Scikit-Learn)<br>
 SQL<br>
 Google Looker (Google data studio)<br>
+Git<br>
 
 📚 Me desenvolvendo em:<br>
 Spark<br>
 PySpark<br>
-Git
+
 
 <!--
 **murillo-almeida/murillo-almeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
