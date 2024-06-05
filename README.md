@@ -17,4 +17,4 @@ Profissional com 4 anos de experiência analizando dados
   <img align="center" alt="Apache Spark" src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16" />
 </div><br/>
 
-![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/murillo-almeida&show_icons=true&theme=dark)
+![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=murillo-almeida&show_icons=true&theme=dark)
