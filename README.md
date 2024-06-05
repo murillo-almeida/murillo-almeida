@@ -1,4 +1,3 @@
-### Hi there 👋
 Sou Sergio Murillo Souza com 4 anos de experiência em analise de dados e me desenvolvendo com as ferramentas para se tornar um analytics engineer
 
 🧠 Algumas das minhas habilidades:<br>
