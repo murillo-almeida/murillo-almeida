@@ -8,6 +8,12 @@ Análise de Crédito com SQL e Excel :
 
 [![SQL](https://raw.githubusercontent.com/murillo-almeida/Suplys/main/Banner-SQL.png?token=GHSAT0AAAAAACTAA4P6LV524ZLEEC734GMMZTCCFXA)](https://www.kaggle.com/code/sergiomurilloalmeida/eda-e-analise-de-cr-dito-sergio-souza)
 
+Análise de Logística com Python : 
+
+[![Python](https://github.com/murillo-almeida/Suplys/blob/main/Loggi%20caminh%C3%A3ozinho.png?raw=true)](https://www.kaggle.com/code/sergiomurilloalmeida/relat-rio-covid-19-em-2021)
+
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+
 
 
 ### Tecnologias que eu uso no meu dia a dia
