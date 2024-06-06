@@ -1,4 +1,4 @@
-## Olá! Eu sou o Sergio Murillo Souza
+![image](https://github.com/murillo-almeida/murillo-almeida/assets/143720773/8ed0311a-248d-4b43-80bc-d5dc241bbae2)## Olá! Eu sou o Sergio Murillo Souza
 
 Profissional com 4 anos de experiência analizando dados 
 
@@ -7,6 +7,24 @@ Profissional com 4 anos de experiência analizando dados
 # Principais projetos
 
 SQL : [![SQL](https://raw.githubusercontent.com/murillo-almeida/Suplys/main/Banner-SQL.png?token=GHSAT0AAAAAACTAA4P6V2DQUKMZUABES5WSZTCB35Q)](https://www.kaggle.com/code/sergiomurilloalmeida/eda-e-analise-de-cr-dito-sergio-souza)
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/SeuUsuario/Projeto1">
+        <img src="![image](https://github.com/murillo-almeida/murillo-almeida/assets/143720773/b6d07d7c-902d-441f-a7af-1ee0f8d44327)
+" alt="SQL" style="width: 100%;"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/SeuUsuario/Projeto2">
+        <img src="https://via.placeholder.com/150" alt="Projeto 2" style="width: 100%;"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+</table>
+
 
 
 ## Tecnologias que eu uso no meu dia a dia
