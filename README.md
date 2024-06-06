@@ -10,11 +10,7 @@ Análise de Crédito com SQL e Excel :
 
 Análise de Logística com Python : 
 
-[![Python](<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://github.com/murillo-almeida/Suplys/blob/main/Loggi%20caminh%C3%A3ozinho.png?raw=true" width="200" height="400" />)](https://www.kaggle.com/code/sergiomurilloalmeida/relat-rio-covid-19-em-2021)
-
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
-
-
+[![Python]([https://raw.githubusercontent.com/murillo-almeida/Suplys/main/Banner-SQL.png?token=GHSAT0AAAAAACTAA4P6LV524ZLEEC734GMMZTCCFXA](https://github.com/murillo-almeida/Suplys/blob/main/Clique%20Aqui.png?raw=true))](https://www.kaggle.com/code/sergiomurilloalmeida/relat-rio-covid-19-em-2021)
 
 ### Tecnologias que eu uso no meu dia a dia
 
