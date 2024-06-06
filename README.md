@@ -6,7 +6,7 @@ Profissional com 4 anos de experiência analizando dados
 
 # Principais projetos
 
-SQL : [![SQL](https://github.com/murillo-almeida/Suplys/blob/main/An%C3%A1lise%20de%20credito%20com%20sql.png?raw=true)](https://www.kaggle.com/code/sergiomurilloalmeida/eda-e-analise-de-cr-dito-sergio-souza)
+SQL : [![SQL](https://raw.githubusercontent.com/murillo-almeida/Suplys/main/Banner-SQL.png?token=GHSAT0AAAAAACTAA4P6V2DQUKMZUABES5WSZTCB35Q)](https://www.kaggle.com/code/sergiomurilloalmeida/eda-e-analise-de-cr-dito-sergio-souza)
 
 
 ## Tecnologias que eu uso no meu dia a dia
