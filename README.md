@@ -6,11 +6,11 @@
 
 Análise de Crédito com SQL e Excel : 
 
-[![SQL](https://raw.githubusercontent.com/murillo-almeida/Suplys/main/Banner-SQL.png?token=GHSAT0AAAAAACTAA4P6LV524ZLEEC734GMMZTCCFXA)](https://www.kaggle.com/code/sergiomurilloalmeida/eda-e-analise-de-cr-dito-sergio-souza)
+[![SQL](https://raw.githubusercontent.com/murillo-almeida/Suplys/main/Banner-SQL.png?token=GHSAT0AAAAAACTAA4P7TEPVPQ3KBMDIGCYYZTCC7VA)](https://www.kaggle.com/code/sergiomurilloalmeida/eda-e-analise-de-cr-dito-sergio-souza)
 
 Análise de Logística com Python : 
 
-[![Python]([https://raw.githubusercontent.com/murillo-almeida/Suplys/main/Banner-SQL.png?token=GHSAT0AAAAAACTAA4P6LV524ZLEEC734GMMZTCCFXA](https://github.com/murillo-almeida/Suplys/blob/main/Clique%20Aqui.png?raw=true))](https://www.kaggle.com/code/sergiomurilloalmeida/relat-rio-covid-19-em-2021)
+[![Python](https://raw.githubusercontent.com/murillo-almeida/Suplys/main/Clique%20Aqui.png?token=GHSAT0AAAAAACTAA4P7LF7AGY2U2L76Q37UZTCC7IA)](https://www.kaggle.com/code/sergiomurilloalmeida/relat-rio-covid-19-em-2021)
 
 ### Tecnologias que eu uso no meu dia a dia
 
