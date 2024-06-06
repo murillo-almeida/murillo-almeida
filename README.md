@@ -4,6 +4,10 @@ Profissional com 4 anos de experiência analizando dados
 
 [![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergioalmeidas/)
 
+# Principais projetos
+
+SQL : [![SQL](https://raw.githubusercontent.com/murillo-almeida/Suplys/main/Banner-SQL.webp?token=GHSAT0AAAAAACTAA4P6OOJ64MKQW2LCXP62ZTCBQQA)](https://www.kaggle.com/code/sergiomurilloalmeida/eda-e-analise-de-cr-dito-sergio-souza)
+
 
 ## Tecnologias que eu uso no meu dia a dia
 
