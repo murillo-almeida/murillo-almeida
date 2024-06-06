@@ -11,8 +11,8 @@ SQL : [![SQL](https://raw.githubusercontent.com/murillo-almeida/Suplys/main/Bann
 <table>
   <tr>
     <td>
-      <a href="https://github.com/SeuUsuario/Projeto1">
-        <img src="![image](https://github.com/murillo-almeida/murillo-almeida/assets/143720773/b6d07d7c-902d-441f-a7af-1ee0f8d44327)
+      <a href="https://www.kaggle.com/code/sergiomurilloalmeida/eda-e-analise-de-cr-dito-sergio-souza">
+        <img src="https://raw.githubusercontent.com/murillo-almeida/Suplys/main/Banner-SQL.png?token=GHSAT0AAAAAACTAA4P6V2DQUKMZUABES5WSZTCB35Q)
 " alt="SQL" style="width: 100%;"/>
       </a>
     </td>
