@@ -1,5 +1,4 @@
-![image](https://github.com/murillo-almeida/murillo-almeida/assets/143720773/8ed0311a-248d-4b43-80bc-d5dc241bbae2)## Olá! Eu sou o Sergio Murillo Souza
-
+## Olá! Eu sou o Sergio Murillo Souza
 Profissional com 4 anos de experiência analizando dados 
 
 [![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergioalmeidas/)
@@ -7,23 +6,6 @@ Profissional com 4 anos de experiência analizando dados
 # Principais projetos
 
 SQL : [![SQL](https://raw.githubusercontent.com/murillo-almeida/Suplys/main/Banner-SQL.png?token=GHSAT0AAAAAACTAA4P6V2DQUKMZUABES5WSZTCB35Q)](https://www.kaggle.com/code/sergiomurilloalmeida/eda-e-analise-de-cr-dito-sergio-souza)
-
-<table>
-  <tr>
-    <td>
-      <a href="https://www.kaggle.com/code/sergiomurilloalmeida/eda-e-analise-de-cr-dito-sergio-souza">
-        <img src="https://raw.githubusercontent.com/murillo-almeida/Suplys/main/Banner-SQL.png?token=GHSAT0AAAAAACTAA4P6V2DQUKMZUABES5WSZTCB35Q)
-" alt="SQL" style="width: 100%;"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/SeuUsuario/Projeto2">
-        <img src="https://via.placeholder.com/150" alt="Projeto 2" style="width: 100%;"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-</table>
 
 
 
