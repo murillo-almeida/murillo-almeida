@@ -5,7 +5,9 @@ Profissional com 4 anos de experiência analizando dados
 
 ### Principais projetos
 
-Análise de Crédito com SQL e Excel : [![SQL](https://raw.githubusercontent.com/murillo-almeida/Suplys/main/Banner-SQL.png?token=GHSAT0AAAAAACTAA4P6LV524ZLEEC734GMMZTCCFXA)](https://www.kaggle.com/code/sergiomurilloalmeida/eda-e-analise-de-cr-dito-sergio-souza)
+Análise de Crédito com SQL e Excel : 
+
+[![SQL](https://raw.githubusercontent.com/murillo-almeida/Suplys/main/Banner-SQL.png?token=GHSAT0AAAAAACTAA4P6LV524ZLEEC734GMMZTCCFXA)](https://www.kaggle.com/code/sergiomurilloalmeida/eda-e-analise-de-cr-dito-sergio-souza)
 
 
 
