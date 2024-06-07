@@ -6,7 +6,7 @@
 
 Análise de Crédito com SQL e Excel : 
 
-[![SQL](https://raw.githubusercontent.com/murillo-almeida/Suplys/main/Banner-SQL.png?token=GHSAT0AAAAAACTAA4P7TEPVPQ3KBMDIGCYYZTCC7VA)](https://www.kaggle.com/code/sergiomurilloalmeida/eda-e-analise-de-cr-dito-sergio-souza)
+[![SQL](https://raw.githubusercontent.com/murillo-almeida/Suplys/main/An%C3%A1lise%20de%20cr%C3%A9dito%20banner.png)](https://www.kaggle.com/code/sergiomurilloalmeida/eda-e-analise-de-cr-dito-sergio-souza)
 
 Análise de Logística com Python : 
 
