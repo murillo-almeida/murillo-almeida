@@ -10,7 +10,11 @@ Análise de Crédito com SQL e Excel :
 
 Análise de Logística com Python : 
 
-[![Python](https://raw.githubusercontent.com/murillo-almeida/Suplys/main/Clique%20Aqui.png?token=GHSAT0AAAAAACTAA4P7LF7AGY2U2L76Q37UZTCC7IA)](https://www.kaggle.com/code/sergiomurilloalmeida/projeto-log-stica-loggi-por-sergio-souza)
+[![Python](https://raw.githubusercontent.com/murillo-almeida/Suplys/main/Loggi%20caminh%C3%A3o%20azul.png)](https://www.kaggle.com/code/sergiomurilloalmeida/projeto-log-stica-loggi-por-sergio-souza)
+
+Dashboard sobre casso de covid no brasil em 2021 : 
+
+[![Python+Looker](https://raw.githubusercontent.com/murillo-almeida/Suplys/main/Covid%20Dashboard%20Clique%20aqui.png)](https://www.kaggle.com/code/sergiomurilloalmeida/relat-rio-covid-19-em-2021)
 
 ### Tecnologias que eu uso no meu dia a dia
 
