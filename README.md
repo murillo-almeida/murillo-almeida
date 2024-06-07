@@ -10,7 +10,7 @@ Análise de Crédito com SQL e Excel :
 
 Análise de Logística com Python : 
 
-[![Python](https://raw.githubusercontent.com/murillo-almeida/Suplys/main/Clique%20Aqui.png?token=GHSAT0AAAAAACTAA4P7LF7AGY2U2L76Q37UZTCC7IA)](https://www.kaggle.com/code/sergiomurilloalmeida/projeto-de-log-stica-em-bras-lia-loggi)
+[![Python](https://raw.githubusercontent.com/murillo-almeida/Suplys/main/Clique%20Aqui.png?token=GHSAT0AAAAAACTAA4P7LF7AGY2U2L76Q37UZTCC7IA)](https://www.kaggle.com/code/sergiomurilloalmeida/projeto-log-stica-loggi-por-sergio-souza)
 
 ### Tecnologias que eu uso no meu dia a dia
 
